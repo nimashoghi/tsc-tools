@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import {command} from "execa"
 import {packages} from "./util"
 

@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import {command} from "execa"
 import {existsSync, promises as fs} from "fs"
 import {relative} from "path"
